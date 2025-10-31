@@ -1,0 +1,7 @@
+{
+  "name": "AI Image & Asset Studio",
+  "description": "An all-in-one AI-powered studio to batch-process images, generate new images and videos, and perform grounded searches. Features include AI-driven renaming, alt-text generation, web optimization, AI-powered editing, and asset generation from text and image prompts.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
